@@ -21,7 +21,7 @@ ts-node scripts/test.ts
 
 if an error occurs, please execute the commands again.
 
-3. results.
+3. result
 
 ```
 #orders_in_tree 500
